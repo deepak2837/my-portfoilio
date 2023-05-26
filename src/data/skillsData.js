@@ -5,7 +5,7 @@
     "Numpy",
     "MongoDB",
     "Docker",
-    "GCP"," Azure","Linux",
+    "GCP","Azure","Ubuntu",
     'Blender',"Numpy",
     'Figma',
 
