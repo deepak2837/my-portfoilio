@@ -1,11 +1,11 @@
  export const skillsData = [
     'HTML','CSS',
     "Python", 'Javascript','React','Django', 
-    "Pandas",
+    
     "Numpy",
     "MongoDB",
     "Docker",
-    "GCP","Azure","Ubuntu",
+    "GCP","Azure",
     'Blender',"Numpy",
     'Figma',
 
