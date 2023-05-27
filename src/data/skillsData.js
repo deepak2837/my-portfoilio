@@ -1,7 +1,7 @@
  export const skillsData = [
     'HTML','CSS',
     "Python", 'Javascript','React','Django', 
-    "Pandas",
+    
     "Numpy",
     "MongoDB",
     "Docker",
