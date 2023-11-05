@@ -26,7 +26,7 @@ npm install
 ### Start the development server
 ```
 npm start
-```
+`
 <br />
 
 # Folder Structure :open_file_folder:
@@ -184,7 +184,7 @@ npm start
 
 # SEO :spider:
 ### Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. 
-### Add the below code snippet to `public/index.html` with your site info. This step is not mandatory
+
 
 <br />
 
