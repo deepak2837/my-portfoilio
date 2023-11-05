@@ -1,5 +1,5 @@
 # Deepak Portfolio 
- <h1>deepakshowcase.netlify.app</h1>
+ <h1>https://deepakshowcase.netlify.app</h1>
 
 # Sections :bookmark:
 - HOME
